@@ -1,0 +1,9 @@
+app-i18n/uim anthy skk m17n-lib# required by www-client/firefox-38.7.0::gentoo[system-sqlite]
+# required by firefox (argument)
+>=dev-db/sqlite-3.11.1 secure-delete
+# required by www-client/firefox-38.7.0::gentoo
+# required by firefox (argument)
+>=dev-lang/python-2.7.10-r1:2.7 sqlite
+# required by www-client/firefox-38.7.0::gentoo[system-libvpx]
+# required by firefox (argument)
+>=media-libs/libvpx-1.4.0 postproc
