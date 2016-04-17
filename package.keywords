@@ -1,0 +1,5 @@
+lxde-base/lxpanel
+lxde-base/menu-cache
+x11-libs/libfm
+x11-libs/libfm-extra# required by libskk (argument)
+=app-i18n/libskk-1.0.1 ~x86
